@@ -20,3 +20,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vvproject
+
+
+二次开发：
+这是vue+element-UI的简易后台管理系统，智涵开发仲裁后台时做参考
